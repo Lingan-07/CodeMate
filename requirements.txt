@@ -3,4 +3,7 @@ uvicorn
 numpy
 groq
 python-dotenv
+requests
+python-multipart
+
 
